@@ -2,6 +2,8 @@
 
 Welcome to Ishan Malik's Image Drawing Tool! This Python application allows you to draw on images, apply various filters, and adjust brightness and contrast.
 
+# Link to Main Documentation: https://drive.google.com/file/d/1CN_1RZknvV31Vi9Azfjn6RR0PH-2Eo98/view?usp=sharing
+
 ## Features
 
 - **Add Image**: Import an image onto the canvas to get started.
